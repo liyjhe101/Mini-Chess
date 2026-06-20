@@ -1,7 +1,7 @@
 #include <utility>
 #include <algorithm>
 #include "114062101_state.hpp"
-#include "114062101_submission.hpp"
+#include "114062101_alpha_beta.hpp"
 
 // Transposition Table flags and entry structure
 enum TTFlag { TT_EXACT, TT_ALPHA, TT_BETA };

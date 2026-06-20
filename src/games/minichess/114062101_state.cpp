@@ -7,7 +7,7 @@
 
 #define USE_BITBOARD
 
-#include "./state.hpp"
+#include "./114062101_state.hpp"
 #include "config.hpp"
 #include "../../policy/game_history.hpp"
 
